@@ -1,0 +1,15 @@
+Client: 127.0.0.1
+Product ID: 101, Quantity: 201, Price Each: 800, Total: 160800
+Payment Method: card, Paid: 25000, Result: Payment Failed: Insufficient funds.
+Date: Mon Jun 30 20:51:35 2025
+------------------------
+Client: 127.0.0.1
+Product ID: 101, Quantity: 2, Price Each: 800, Total: 1600
+Payment Method: card, Paid: 2000, Result: Payment Successful!
+Date: Mon Jun 30 21:27:45 2025
+------------------------
+Client: 127.0.0.1
+Product ID: 101, Quantity: 3, Price Each: 800, Total: 2400
+Payment Method: card, Paid: 3000, Result: Payment Successful!
+Date: Mon Jun 30 23:34:11 2025
+------------------------
