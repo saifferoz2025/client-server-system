@@ -22,9 +22,8 @@ To understand client-server architecture at the system programming level and pra
 
 ## 📂 Files Included
 
-- `src/` – C++ source files (client, server, helpers)
+- `src/` – C++ source files (client, server, inventory, order)
 - `README.md`
-- (Optional) `screenshots/` folder
 
 ## 👨‍💻 Author
 
