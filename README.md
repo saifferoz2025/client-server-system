@@ -27,6 +27,5 @@ To understand client-server architecture at the system programming level and pra
 
 ## 👨‍💻 Author
 
-**Saif ur Rehman**  
+**Muhammad Saif Ur Rehman Feroz**  
 [LinkedIn](https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/)
-
